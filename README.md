@@ -13,7 +13,7 @@ Another intent of the work was to test the device on various arcade games with t
 * 5 - Resistors
 * Jumper wires (various types)
 
-Connect all components according to the wiring diagram. (gamepad_wiring_diagram.png)
+Connect all components according to the wiring diagram. [diagram](gamepad_wiring_diagram.png)
 
 ### Code:
 To write and upload code to the Arduino boards is used Arduino IDE program (variant of the C++ programming language).
