@@ -71,3 +71,5 @@ void loop() {
   delay(10);
 }
 ```
+
+<p align="center"> <img src="gamepad_image.png" /> </p>
