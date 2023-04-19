@@ -1,8 +1,8 @@
 # Gamepad
 *Bachelor thesis*
 
-The aim of this thesis was to explore the possibilities of the Arduino controller to implement a gamepad with use of potentiometer. The reader is offered instructions for building his own gamepad from the hardware to the software part in this work, including a 3D case. 
-Another intent of the work was to test the device on various games with target users/respondents and input lag testing.
+The aim of this thesis was to explore the possibilities of the Arduino controller to implement a gamepad with use of potentiometer. The reader is offered instructions for building his own gamepad from the hardware to the software part, including a 3D case. 
+Another intent of the work was to test the device on various arcade games with target users/respondents and input lag testing.
 
 ### List of hardware components:
 * [Arduino Leonardo Board](https://techfun.sk/produkt/arduino-leonardo-original/)
@@ -16,6 +16,7 @@ Another intent of the work was to test the device on various games with target u
 Connect all components according to the wiring diagram. (gamepad_wiring_diagram.png)
 
 ### Code:
+To write and upload code to the Arduino boards is used Arduino IDE program (variant of the C++ programming language).
 
 ``` c++
 #include "Joystick.h"
