@@ -79,12 +79,13 @@ void loop() {
 
 
 After successfully uploading the code to the Arduino, let's test the controller first.
+
 *Note: The following steps are for Windows 10 operating system. If you have a different version of Windows or a different operating system, these steps may be slightly different.*
 
-Open the Control Panel\Hardware and Sound\Devices and Printers window
+Open the *Control Panel* \ *Hardware and Sound* \ *Devices and Printers* window
 
-The Arduino Leonardo should appear in the list of devices (Figure 1). Right-click and select the Game controller settings box.
-We will see a list of drivers, from which we select Arduino Leonardo and click on the Properties.
+The Arduino Leonardo should appear in the list of devices (Figure 1). Right-click and select the *Game controller settings*.
+We will see a list of drivers, from which we select Arduino Leonardo and click on the *Properties*.
 
 <p align="center"> <img src="Figure1.PNG" width="400" /> </p>
 <p align="center"> <i>Figure1</i> </p>
@@ -92,7 +93,7 @@ We will see a list of drivers, from which we select Arduino Leonardo and click o
 
 After the dialog is displayed, press the individual buttons, turn the potentiometer and move the joystick. If the subsequently printed values are as expected, the controller is working correctly. (Figure 2)
 
-If the controller does not work properly, it is necessary to calibrate it. In the Arduino Leonardo Properties window, switch from the Test to the Settings and then to the Calibrate (Figure 2).
+If the controller does not work properly, it is necessary to calibrate it. In the Arduino Leonardo Properties window, switch from the *Test* to the *Settings* and then to the *Calibrate* (Figure 2).
 
 <p align="center"> <img src="Figure2.PNG" width="400" /> </p>
 <p align="center"> <i>Figure2</i> </p>
