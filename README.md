@@ -86,7 +86,7 @@ Open the Control Panel\Hardware and Sound\Devices and Printers window
 The Arduino Leonardo should appear in the list of devices (Figure 1). Right-click and select the Game controller settings box.
 We will see a list of drivers, from which we select Arduino Leonardo and click on the Properties.
 
-<p align="center"> <img src="Figure1.PNG" /> </p>
+<p align="center"> <img src="Figure1.PNG" width="400" /> </p>
 <p align="center"> <i>Figure1</i> </p>
 
 
@@ -94,5 +94,5 @@ After the dialog is displayed, press the individual buttons, turn the potentiome
 
 If the controller does not work properly, it is necessary to calibrate it. In the Arduino Leonardo Properties window, switch from the Test to the Settings and then to the Calibrate (Figure 2).
 
-<p align="center"> <img src="Figure2.PNG" /> </p>
+<p align="center"> <img src="Figure2.PNG" width="400" /> </p>
 <p align="center"> <i>Figure2</i> </p>
