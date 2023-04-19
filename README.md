@@ -1,5 +1,5 @@
 # Gamepad
-Bachelor thesis
+*Bachelor thesis*
 
 The aim of this thesis was to explore the possibilities of the Arduino controller to implement a gamepad.
 The reader is offered instructions for building his own gamepad from the hardware to the software part in this work, including a 3D case. 
