@@ -15,6 +15,11 @@ Another intent of the work was to test the device on various arcade games with t
 
 Connect all components according to the wiring diagram. [diagram](gamepad_wiring_diagram.png)
 
+### Case
+Parts of the 3D case:
+* [upper part](gamepad_upper_part.stl)
+* [lower part](gamepad_lower_part.stl)
+
 ### Code:
 To write and upload code to the Arduino boards is used Arduino IDE program (variant of the C++ programming language).
 
