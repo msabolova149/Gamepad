@@ -103,3 +103,5 @@ If the controller does not work properly, it is necessary to calibrate it. In th
 
 <p align="center"> <img src="Figure2.PNG" width="400" /> </p>
 <p align="center"> <i>Figure2</i> </p>
+
+See in 3D : [show](Gamepad_with_parts.stl)
