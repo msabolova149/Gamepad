@@ -16,7 +16,7 @@ Another intent of the work was to test the device on various arcade games with t
 Connect all components according to the wiring diagram. [diagram](gamepad_wiring_diagram.png)
 
 ### Case
-Parts of the 3D case:
+Parts of the 3D case: (designed in OpenScad program)
 * [upper part](gamepad_upper_part.stl)
 * [lower part](gamepad_lower_part.stl)
 
