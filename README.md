@@ -75,7 +75,7 @@ void loop() {
 <p align="center"> <img src="gamepad_image.png" /> </p>
 
 
-###Gamepad calibration
+### Gamepad calibration
 
 
 After successfully uploading the code to the Arduino, let's test the controller first.
