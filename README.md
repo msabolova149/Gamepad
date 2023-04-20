@@ -4,6 +4,8 @@
 The aim of this thesis was to explore the possibilities of the Arduino controller to implement a gamepad with use of potentiometer. The reader is offered instructions for building his own gamepad from the hardware to the software part, including a 3D case. 
 Another intent of the work was to test the device on various arcade games with target users/respondents and input lag testing.
 
+See in 3D : [show](Gamepad_with_parts.stl)
+
 ### List of hardware components:
 * [Arduino Leonardo Board](https://techfun.sk/produkt/arduino-leonardo-original/)
 * [Potentiometer](https://techfun.sk/produkt/potenciometer-rozne-typy-b1k-az-b500k/)
@@ -104,4 +106,4 @@ If the controller does not work properly, it is necessary to calibrate it. In th
 <p align="center"> <img src="Figure2.PNG" width="400" /> </p>
 <p align="center"> <i>Figure2</i> </p>
 
-See in 3D : [show](Gamepad_with_parts.stl)
+
